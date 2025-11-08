@@ -23,6 +23,6 @@ LATER is a web-based and mobile-responsive application built to collect, categor
    - Collects and aggregates engagement data for progress dashboards.
 
 ## Feasibility Notes
-All core APIs exist publicly (YouTube, Pocket, Twitter).
+We can get all core APIs that exist publicly (YouTube, Pocket, Twitter).
 Initial MVP can run on Heroku / Vercel with Firebase integration.
 Architecture supports scaling via microservices for future personalization features.
